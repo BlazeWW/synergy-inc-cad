@@ -46,3 +46,22 @@ Students should consider:
 ## Important Note
 
 This is a training and concept-development environment. Students are not expected to produce final construction drawings. The goal is to learn professional thinking, structured documentation, and practical project workflow.
+
+## Site Reference and Size
+
+The Synergy Inc. site is approximately 24 hectares.
+
+Google Maps reference:
+
+https://maps.app.goo.gl/27Jewne9cvYxC4SW8
+
+Working coordinates:
+
+- Latitude: -29.055508
+- Longitude: 26.153821
+
+24 hectares is approximately 240,000 square metres.
+
+Because of the size of the site, students must start with precinct-level planning, not detailed building plans.
+
+The first phase of work is site analysis, zoning, access planning, and concept board preparation.

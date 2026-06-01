@@ -81,3 +81,25 @@ Start with:
 3. `DRAUGHTING_NAMING_CONVENTION.md`
 4. `docs/GITHUB_WORKFLOW_FOR_DRAUGHTING_STUDENTS.md`
 5. `docs/FIRST_WEEK_DRAUGHTING_TRAINING.md`
+
+## Current Site Reference
+
+The Synergy Inc. site is an expansive 24-hectare piece of ground.
+
+Google Maps reference:
+
+https://maps.app.goo.gl/27Jewne9cvYxC4SW8
+
+Working coordinate reference:
+
+- Latitude: -29.055508
+- Longitude: 26.153821
+
+Students must start with site analysis before producing detailed building layouts.
+
+New site-analysis folders:
+
+- `00-site-information/`
+- `02-site-analysis/`
+- `docs/FIRST_SITE_ANALYSIS_ASSIGNMENT.md`
+- `docs/STARTER_GITHUB_ISSUES_FOR_SITE_ANALYSIS.md`
