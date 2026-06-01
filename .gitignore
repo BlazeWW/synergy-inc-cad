@@ -1,0 +1,26 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# CAD autosave and lock files
+*.ac$
+*.dwl
+*.dwl2
+*.sv$
+*.autosave
+
+# Archives and large duplicate exports
+*.zip
+*.rar
+*.7z
+
+# Local notes that should not be committed
+local-notes/
+personal-notes/
