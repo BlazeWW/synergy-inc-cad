@@ -103,3 +103,13 @@ New site-analysis folders:
 - `02-site-analysis/`
 - `docs/FIRST_SITE_ANALYSIS_ASSIGNMENT.md`
 - `docs/STARTER_GITHUB_ISSUES_FOR_SITE_ANALYSIS.md`
+
+## Self-Paced Learning Resources
+
+Architectural Draughting resource URLs are available at:
+
+`docs/ARCHITECTURAL_DRAUGHTING_RESOURCE_URLS.md`
+
+The full internship-wide resource list is maintained in the `internship-training-and-docs` repository under:
+
+`13-resource-index/self-paced-resource-urls.md`
