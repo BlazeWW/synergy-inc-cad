@@ -15,6 +15,7 @@ Used by:
 - Doctors' room patients
 - Auction house visitors
 - Workshop customers
+- Students
 
 ### Staff Access
 
