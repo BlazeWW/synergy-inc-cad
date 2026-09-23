@@ -1,6 +1,6 @@
 # Synergy Inc. Architectural Draughting Internship Repository
 
-This repository is for CTU Bloemfontein Architectural Draughting students working on the Synergy Inc. project.
+This repository is for CTU Architectural Draughting students working on the Synergy Inc. project.
 
 The purpose of this repository is to teach professional documentation, version control discipline, concept development, revision control, and review-friendly presentation of draughting work.
 
